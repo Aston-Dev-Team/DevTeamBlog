@@ -2,8 +2,8 @@
 
 $SHELL<<EOF1
 	
-	cd apps/DevTeamBlog/
-	
+	cd apps/DevTeamBlog/devblog/
+
 	bundle install
 	rake db:create
 
